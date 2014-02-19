@@ -1,0 +1,8 @@
+<input type="checkbox" onClick="getopn('http://davidwalsh.name')">
+
+<script type="text/javascript">
+function getopn(loc){
+alert("comr");
+window.location = loc;
+}
+</script>
